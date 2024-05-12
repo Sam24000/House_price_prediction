@@ -1,0 +1,12 @@
+body{
+
+        background-size: cover;
+        background-repeat:no-repeat;
+}
+        
+.container{
+    margin-top: 50px;
+}
+.form-group{
+    margin-top: 5px;
+}
